@@ -6,10 +6,19 @@
 
 
 下载代码：
-https://github.com/YueJia123/n2n.git
+
+  https://github.com/YueJia123/n2n.git
 
 cd n2n/n2n_v2/
 
 mkdir build
+
 cd build
+
 cmake -G "Visual Studio 16" --build .\ ..\
+
+在build目录下生成一个vs c++的解决方案
+
+使用vs2019打开n2n.sln
+
+选择相应的项目编译生成即可在build/Release/目录下获取到
