@@ -7,7 +7,7 @@
 
 下载代码：
 
-  https://github.com/YueJia123/n2n.git
+        https://github.com/YueJia123/n2n.git
 
 cd n2n/n2n_v2/
 
@@ -21,4 +21,5 @@ cmake -G "Visual Studio 16" --build .\ ..\
 
 使用vs2019打开n2n.sln
 
-选择相应的项目编译生成即可在build/Release/目录下获取到
+选择相应的项目编译生成即可，
+在build/Release/目录或build/Debug/目录下运行即可
