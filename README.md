@@ -6,3 +6,10 @@
 
 
 下载代码：
+https://github.com/YueJia123/n2n.git
+
+cd n2n/n2n_v2/
+
+mkdir build
+cd build
+cmake -G "Visual Studio 16" --build .\ ..\
